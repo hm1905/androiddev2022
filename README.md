@@ -12,5 +12,4 @@ Student Info
 
 * Name: *Nguyen Hoang Minh*
 * ID: *BI10-112*
-* Group ID: *12*
-
+* Group ID: *10*
