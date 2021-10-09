@@ -19,7 +19,7 @@
             tools:context=".WeatherFragment"
             android:orientation="vertical"
             android:layout_margin="10dp"
-            android:background="@drawable/frame2">
+            android:background="@color/Pale_green">
 
             <TextView
                 android:layout_width="wrap_content"
