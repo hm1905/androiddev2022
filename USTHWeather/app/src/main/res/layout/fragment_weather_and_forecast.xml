@@ -19,7 +19,7 @@
             tools:context=".WeatherFragment"
             android:orientation="vertical"
             android:layout_margin="10dp"
-            android:background="#98FB98">
+            android:background="@color/Pale_green">
 
             <TextView
                 android:layout_width="wrap_content"
@@ -42,7 +42,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:background="#BBDEFB"
+            android:background="@color/Pale_blue"
             android:orientation="vertical"
             tools:context=".ForecastFragment">
 
@@ -57,9 +57,9 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="40dp"
-                    android:layout_weight="0.3"
+                    android:layout_weight="0.9"
                     android:gravity="center_vertical"
-                    android:text="Mon"
+                    android:text="@string/mon"
                     android:textSize="20sp" />
 
                 <ImageView
@@ -89,9 +89,9 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="40dp"
-                    android:layout_weight="0.3"
+                    android:layout_weight="0.9"
                     android:gravity="center_vertical"
-                    android:text="Tue"
+                    android:text="@string/tue"
                     android:textSize="20sp" />
 
                 <ImageView
@@ -121,9 +121,9 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="40dp"
-                    android:layout_weight="0.3"
+                    android:layout_weight="0.9"
                     android:gravity="center_vertical"
-                    android:text="Wed"
+                    android:text="@string/wed"
                     android:textSize="20sp" />
 
                 <ImageView
@@ -153,9 +153,9 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="40dp"
-                    android:layout_weight="0.3"
+                    android:layout_weight="0.9"
                     android:gravity="center_vertical"
-                    android:text="Thu"
+                    android:text="@string/thu"
                     android:textSize="20sp" />
 
                 <ImageView
@@ -185,9 +185,9 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="40dp"
-                    android:layout_weight="0.3"
+                    android:layout_weight="0.9"
                     android:gravity="center_vertical"
-                    android:text="Fri"
+                    android:text="@string/fri"
                     android:textSize="20sp" />
 
                 <ImageView

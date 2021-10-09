@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mon">Thu 2</string>
+    <string name="tue">Thu 3</string>
+    <string name="wed">Thu 4</string>
+    <string name="thu">Thu 5</string>
+    <string name="fri">Thu 6</string>
+    <string name="sat">Thu 7</string>
+    <string name="sun">Chu Nhat</string>
+</resources>
