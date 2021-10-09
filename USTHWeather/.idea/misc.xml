@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/USTHWeather/app/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/USTHWeather/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/USTHWeather/app/src/main/res/layout/fragment_forecast.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/USTHWeather/app/src/main/res/layout/fragment_weather.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/USTHWeather/app/src/main/res/layout/fragment_weather_and_forecast.xml" value="0.203125" />
       </map>
     </option>
   </component>

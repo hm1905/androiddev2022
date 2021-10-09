@@ -34,4 +34,5 @@ public class FragmentAdapter extends FragmentStateAdapter {
         return PAGE_COUNT;
     }
 
+
 }
