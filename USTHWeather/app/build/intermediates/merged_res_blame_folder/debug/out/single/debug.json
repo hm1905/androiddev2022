@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_rain.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\drawable\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_weather.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\layout\\fragment_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_forecast.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\layout\\fragment_forecast.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_frame2.9.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\drawable\\frame2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_sunny.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\drawable\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_weather_and_forecast.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\layout\\fragment_weather_and_forecast.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\menu_toolbar.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\menu\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_frame.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\drawable\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_refresh_24.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\drawable\\ic_baseline_refresh_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\USTHWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]
